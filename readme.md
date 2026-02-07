@@ -1,6 +1,6 @@
 ## MonAst with PJSIP in Docker  
 MonAst with patch for PJSIP support.  
-Original MonAst: ["Repository"](https://github.com/dagmoller/monast)
+Original MonAst: [Repository](https://github.com/dagmoller/monast)
 ### Install  
 Create `.env` file:  
 ```
@@ -62,5 +62,5 @@ Start the Service:
 docker compose up -d
 ```
 
-**If you find this project useful or inspiring**  
+**If you find this project useful or inspiring, please support it with a donation.**  
 [<img src="https://felen.io/static/img/felen_whole_logo.png" width="20%" />](https://felen.io/fraglist/pay/)
